@@ -37,7 +37,7 @@ TextView textView;
             startActivity(intent);
             finish();
         }
-    }`
+    }
 
     @SuppressLint("MissingInflatedId")
     @Override
