@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SaveThe Bunny</string>
+    <string name="todo">TODO</string>
+    <string name="attribute_defined_on_view">"attribute defined on view "</string>
+    <string name="login">Login</string>
+    <string name="password" />
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="logout">logout</string>
+    <string name="firebase_auth">Firebase Auth</string>
+    <string name="start">Start</string>
+    <string name="hello_world">Hello World</string>
+</resources>

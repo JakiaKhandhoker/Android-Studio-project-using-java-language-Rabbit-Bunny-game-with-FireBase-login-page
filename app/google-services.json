@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716348269967",
+    "project_id": "login-register-firebase-79429",
+    "storage_bucket": "login-register-firebase-79429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716348269967:android:d62672574f5df5178097fa",
+        "android_client_info": {
+          "package_name": "com.example.savethebunny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG22sU2rearv1rPjXF_pTwd6_sorzR4aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
